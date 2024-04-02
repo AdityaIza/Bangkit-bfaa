@@ -6,13 +6,11 @@ Rating Submission: ⭐⭐⭐⭐
 
 Version: 1.0.0
 
-Built with
-Kotlin
-Android Studio
-XML
-Gradle
-Android SDK
-Material Design
+Built with :
+Kotlin,
+Android Studio,
+XML,
+Gradle.
 
 -------------------------------------------------------------------------------------------------------
 Features that be added to the application:
