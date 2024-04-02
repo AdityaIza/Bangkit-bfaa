@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+    <string name="profileimage">image</string>
+    <string name="username">username</string>
+    <string name="tab_follower">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="search_user">search user</string>
+    <string name="home">Home</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="change_mode">setting</string>
+    <string name="favorite">favorite</string>
+</resources>
