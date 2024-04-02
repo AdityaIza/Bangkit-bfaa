@@ -5,3 +5,28 @@ Description: Dicoding x Bangkit Mobile Development Submission
 Rating Submission: ⭐⭐⭐⭐
 
 Version: 1.0.0
+
+Built with
+Kotlin
+Android Studio
+XML
+Gradle
+Android SDK
+Material Design
+
+-------------------------------------------------------------------------------------------------------
+Features that be added to the application:
+
+Favorite User with Database
+Requirement:
+The application must be able to add and remove users from the favorite list.
+The application must have a page that displays the favorite list.
+Display the detail page of the favorite list.
+
+Theme Settings
+Requirement:
+Create a menu to change the theme (light theme or dark theme) using key-value storage.
+Ensure that the theme remains implemented even if the application is closed and reopened.
+This is done by observing the data and implementing the theme on the first page.
+Ensure that every component and indicator remains clearly visible when changing themes (Do not make the text and indicators black when the theme is dark).
+Here is a display framework that you can use as a reference:
